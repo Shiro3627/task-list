@@ -14,7 +14,7 @@ input:checked+label{
     height: 330px;
     background-color:#f8f2fa;
     text-align: center;
-    padding: 70px 25px;
+    padding: 10px 25px;
     box-sizing: border-box;
     box-shadow: 0 0 15px 2px rgb(173, 151, 176);
     border-radius: 7px;
