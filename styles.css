@@ -8,10 +8,6 @@ input:checked+label{
     text-decoration:line-through rgb(93, 10, 113);
 }
 
-input[type=checkbox]{
-    opacity:
-}
-
 .to_do{
     margin: auto;
     width: 30%;
